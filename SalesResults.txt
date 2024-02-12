@@ -1,0 +1,49 @@
+Sales Results:
+Product: Rustic breakfast, Quantity: 1, Total Cost: $21.32
+Product: Sandwich with salad, Quantity: 2, Total Cost: $44.96
+Product: Raw legums, Quantity: 1, Total Cost: $17.11
+Product: Fresh stawberry, Quantity: 1, Total Cost: $28.59
+Product: Pears juice, Quantity: 2, Total Cost: $38.98
+Product: Green smoothie, Quantity: 3, Total Cost: $53.04
+Product: Cuban sandwiche, Quantity: 2, Total Cost: $37.0
+Product: Hazelnut in black ceramic bowl, Quantity: 2, Total Cost: $54.7
+Product: Tomatoes, Quantity: 1, Total Cost: $26.03
+Product: Plums, Quantity: 1, Total Cost: $19.18
+Product: Fresh blueberries, Quantity: 2, Total Cost: $42.02
+Product: Green smoothie, Quantity: 2, Total Cost: $35.36
+Product: Corn, Quantity: 3, Total Cost: $40.650000000000006
+Product: French fries, Quantity: 1, Total Cost: $18.32
+Product: Ground beef meat burger, Quantity: 1, Total Cost: $11.73
+Product: Hazelnut in black ceramic bowl, Quantity: 2, Total Cost: $54.7
+Product: Cherry, Quantity: 2, Total Cost: $28.7
+Product: Homemade bread, Quantity: 1, Total Cost: $17.48
+Product: Smoothie with chia seeds, Quantity: 1, Total Cost: $25.26
+Product: Corn, Quantity: 1, Total Cost: $13.55
+Product: Peaches on branch, Quantity: 2, Total Cost: $51.24
+Product: Pesto with basil, Quantity: 2, Total Cost: $36.38
+Product: Plums, Quantity: 1, Total Cost: $19.18
+Product: Fresh blueberries, Quantity: 2, Total Cost: $42.02
+Product: Green smoothie, Quantity: 4, Total Cost: $70.72
+Product: Corn, Quantity: 1, Total Cost: $13.55
+Product: French fries, Quantity: 2, Total Cost: $36.64
+Product: Ground beef meat burger, Quantity: 3, Total Cost: $35.19
+Product: Hazelnut in black ceramic bowl, Quantity: 1, Total Cost: $27.35
+Product: Cherry, Quantity: 2, Total Cost: $28.7
+Product: Homemade bread, Quantity: 5, Total Cost: $87.4
+Product: Smoothie with chia seeds, Quantity: 2, Total Cost: $50.52
+Product: Corn, Quantity: 10, Total Cost: $135.5
+Product: Rustic breakfast, Quantity: 2, Total Cost: $42.64
+Product: Sandwich with salad, Quantity: 3, Total Cost: $67.44
+Product: Raw legums, Quantity: 20, Total Cost: $342.2
+Product: Fresh stawberry, Quantity: 4, Total Cost: $114.36
+Product: Pears juice, Quantity: 1, Total Cost: $19.49
+Product: Green smoothie, Quantity: 8, Total Cost: $141.44
+Product: Cuban sandwiche, Quantity: 9, Total Cost: $166.5
+Product: Hazelnut in black ceramic bowl, Quantity: 2, Total Cost: $54.7
+Product: Tomatoes, Quantity: 1, Total Cost: $26.03
+Product: Plums, Quantity: 2, Total Cost: $38.36
+Product: Fresh blueberries, Quantity: 3, Total Cost: $63.03
+Product: Green smoothie, Quantity: 5, Total Cost: $88.4
+Product: Corn, Quantity: 4, Total Cost: $54.2
+Total cost for all sales: $2481.8600000000006
+Execution time: 0.00 seconds
